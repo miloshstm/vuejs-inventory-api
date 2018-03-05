@@ -1,0 +1,8 @@
+{
+  "products":[
+    {"id":1,"quantity":1,"name":"1984"},
+    {"id":2,"quantity":0,"name":"Animal Farm"},
+    {"id":3,"quantity":5,"name":"The Definitive Guide"},
+    {"id":4,"quantity":2,"name":"You Don't know JS"}
+  ]
+}
